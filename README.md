@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @thanhtuankeu
 - 👀 I’m interested in nodejs related application
 - 🌱 I’m currently learning graphQL, Blockchain 
-- 💞️ I’m working solo
 - 📫 How to reach me thanhtuankeu@gmail.com
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
 <!---
 thanhtuankeu/thanhtuankeu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
